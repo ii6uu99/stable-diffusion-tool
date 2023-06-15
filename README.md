@@ -1,10 +1,13 @@
 # Stable Diffusion超强工具箱
 
 使用上这个动作的步骤：
+
 1. 安装quicker软件
+
 这个动作是基于quicker软件开发的
 
 quicker这个软件的下载地址：
+
 https://getquicker.net/Download
 
 
