@@ -12,7 +12,9 @@ https://getquicker.net/Download
 
 
 3. 导入动作
-安装quicker后，鼠标中键调出quicker面板
+安装quicker后，
+
+鼠标中键调出quicker面板
 
 点击空白区域的加号-->
 点击导入动作-->
