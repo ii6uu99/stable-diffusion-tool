@@ -10,8 +10,11 @@ quicker这个软件的下载地址：
 
 https://getquicker.net/Download
 
+2. 下载github上的json文件
 
+  
 3. 导入动作
+
 安装quicker后，
 
 鼠标中键调出quicker面板
