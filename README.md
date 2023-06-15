@@ -3,11 +3,12 @@
 使用上这个动作的步骤：
 1. 安装quicker软件
 这个动作是基于quicker软件开发的
+
 quicker这个软件的下载地址：
 https://getquicker.net/Download
 
 
-2. 导入动作
+3. 导入动作
 安装quicker后，鼠标中键调出quicker面板
 
 点击空白区域的加号-->
