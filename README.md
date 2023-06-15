@@ -25,3 +25,7 @@ https://getquicker.net/Download
 
 AI空城机
 https://www.youtube.com/@AI_kongcheng
+
+注意事项：
+
+尽量下载最新的json文件，确保你使用上的是我最新的工具
