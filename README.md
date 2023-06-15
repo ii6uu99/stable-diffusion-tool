@@ -10,8 +10,8 @@ https://getquicker.net/Download
 2. 导入动作
 安装quicker后，鼠标中键调出quicker面板
 
-点击空白区域的加号
-点击导入动作
+点击空白区域的加号-->
+点击导入动作-->
 选择下载好的json文件
 
 
