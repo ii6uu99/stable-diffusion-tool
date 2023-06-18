@@ -23,11 +23,18 @@ https://getquicker.net/Download
 点击导入动作-->
 选择下载好的json文件
 
+---
 
 如果还不懂请访问我的YouTube频道：
 
 AI空城机
 https://www.youtube.com/@AI_kongcheng
+
+SD超强工具箱配套教程：
+
+https://youtu.be/MDeMpRWPNFY
+
+---
 
 注意事项：
 
