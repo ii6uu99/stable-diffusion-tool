@@ -24,6 +24,7 @@ https://getquicker.net/Download
 选择下载好的json文件
 
 ---
+如果这个工具对你有用，请订阅我的YouTube频道，鼓励我做更好的内容。
 
 如果还不懂请访问我的YouTube频道：
 
