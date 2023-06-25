@@ -44,3 +44,21 @@ https://youtu.be/MDeMpRWPNFY
 如 SD超强工具箱_20230615_142138.json ，20230615_142138这个是日期值，选择最大的导入动作
 
 先要下载zip压缩包，解压出json文件，再点击quicker面板的加号，点击导入动作，选择最新的json文件导入
+
+---
+
+导入json的时候提示“导入失败。Unexpected character encountered while parsing value:<Path "line 0,position 0.”，是什么原因呢？
+要下载zip压缩包再解压，直接另存的文件不能用，点击quicker面板加号，点击导入动作，导入解压出来的json文件
+
+---
+hall  “文件太大，可能不是动作到处文件” 导入不到quicker 
+
+可以用简版的，只是没有图鉴和教程搞色色这些，核心功能都有：翻译，咒语生成器，工具，加权重值，合成等功能，这是最简单百分百能用的方法
+
+复制这个动作链接： 
+
+https://getquicker.net/Sharedaction?code=3038776c-eda9-4022-1e6c-08db54f2077f 
+
+点击quicker面板的加号，点击粘贴分享的动作
+
+
