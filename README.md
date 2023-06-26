@@ -57,10 +57,14 @@ hall  “文件太大，可能不是动作到处文件” 导入不到quicker
 
 复制这个动作链接： 
 
+简体版本：简单版
 https://getquicker.net/Sharedaction?code=3038776c-eda9-4022-1e6c-08db54f2077f 
 
 点击quicker面板的加号，点击粘贴分享的动作
 
+
+繁体版本：简单版
+https://getquicker.net/Sharedaction?code=015e3962-5d19-497c-eb98-08db754ee2c2
 
 ---
 SD超强工具箱（繁体版）_20230626_144306.json
