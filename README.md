@@ -4,7 +4,7 @@
 
 1. 安装quicker软件
 
-这个动作是基于quicker软件开发的
+这个动作是基于quicker软件开发的，一定要下载最新版本，要不然json有可能导入失败
 
 quicker这个软件的下载地址：
 
@@ -53,6 +53,11 @@ https://youtu.be/MDeMpRWPNFY
 ---
 hall  “文件太大，可能不是动作到处文件” 导入不到quicker 
 
+解决方法一：下载最新的quicker
+
+https://getquicker.net/Download
+
+解决方法二：
 可以用简版的，只是没有图鉴和教程搞色色这些，核心功能都有：翻译，咒语生成器，工具，加权重值，合成等功能，这是最简单百分百能用的方法
 
 复制这个动作链接： 
