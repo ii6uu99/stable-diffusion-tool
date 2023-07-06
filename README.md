@@ -35,6 +35,15 @@ SD超强工具箱配套教程：
 
 https://youtu.be/MDeMpRWPNFY
 
+给咒语生成器添加自己的选项，提示词生成器，创建属于自己的提示词生成器选项：
+
+https://youtu.be/z4SAQOc3p9o
+
+Stable Diffusion超强工具箱添加自定义提示词，添加提示词模板，创建独属于自己可云端保存的Stable Diffusion的提示词模板：
+
+https://youtu.be/p3BTK0i50wc
+
+
 ---
 
 注意事项：
@@ -55,7 +64,7 @@ hall  “文件太大，可能不是动作到处文件” 导入不到quicker
 
 解决方法一：下载最新的quicker
 
-https://getquicker.net/Download
+https://getquicker.net/Help/Versions
 
 解决方法二：
 可以用简版的，只是没有图鉴和教程搞色色这些，核心功能都有：翻译，咒语生成器，工具，加权重值，合成等功能，这是最简单百分百能用的方法
