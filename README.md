@@ -1,6 +1,6 @@
 # Stable Diffusion超强工具箱
 
-使用上这个动作的步骤：
+导入动作方法一：
 
 1. 安装quicker软件
 
@@ -10,11 +10,8 @@ quicker这个软件的下载地址：
 
 https://getquicker.net/Download
 
+2. 下载github上的zip
 
-导入动作方法一：
-2. 下载github上的json文件
-
-  
 3. 导入动作
 
 安装quicker后，
@@ -32,11 +29,12 @@ https://getquicker.net/Download
 
 1.下载好quikcer软件后
 
-2. 下载qka扩展名的文件
+2. 下载github上的zip
 
 3. 点击quikcer面板的加号-->新建组合动作-->右上角有三个点，点击-->导入动作定义-->选中下载好的qka的文件-->写上标题：“sd超强工具箱”-->保存，就安装好动作了
 
 ---
+
 如果这个工具对你有用，请订阅我的YouTube频道，鼓励我做更好的内容。
 
 如果还不懂请访问我的YouTube频道：
