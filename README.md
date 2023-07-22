@@ -27,7 +27,7 @@ https://getquicker.net/Download
 
 方法二(推荐)，如果json导入出错的话，使用这个方法
 
-1.下载好quikcer软件后
+1. 下载好quikcer软件后
 
 2. 下载github上的zip
 
